@@ -2,7 +2,7 @@ Blockly.Blocks['onstart'] = {
     init: function () {
       this.appendDummyInput()
         .appendField("when")
-        .appendField(new Blockly.FieldImage("/src/projecttoolbar/run.svg", 25, 25, { alt: "*", flipRtl: "FALSE" }))
+        .appendField(new Blockly.FieldImage("https://bark.dumorando.com/src/projecttoolbar/run.svg", 25, 25, { alt: "*", flipRtl: "FALSE" }))
         .appendField("clicked");
       this.appendStatementInput("start")
         .setCheck(null)
