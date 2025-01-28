@@ -52,11 +52,8 @@ after that the block is now in the blockbar!
 
 If you want to make a library of custom blocks, go see `Create an extension.md`!
 
-*Last updated April 19th, 2024*
+*Last updated January 27th, 2025*
 
 <!--
     Make sure to change date to the current commit date!
 -->
-
-
-[Edit this page.](https://github.com/mariocraft987/bark-coding/blob/main/documentation/content/Add%20a%20new%20block.md)
